@@ -23,3 +23,4 @@ There is one test currently failing in the App component, which should have been
 
 
 # DEPLOY here
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Unnikuttankk/react-redux-todo-starter)
