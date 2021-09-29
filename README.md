@@ -19,3 +19,4 @@ npm start OR yarn start
 ```
 
 There is one test currently failing in the App component, which should have been fixed by exporting the App component separately from the "connected" exported component. If you can fix that, send a PR.
+#DEPLOY
